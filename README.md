@@ -2,8 +2,6 @@
 
 好看的个人主页，个人主页源码，博客主页模板[](https://wexuo.github.io/home).**🉑️随意使用，无限制。**
 
-原始地址：[https://wexuo.github.io/home](https://wexuo.github.io/home)
-
 ## 集成插件
 
 - [x] [typed 打字机特效](https://github.com/mattboldt/typed.js/)
